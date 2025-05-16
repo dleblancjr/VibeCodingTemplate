@@ -1,10 +1,12 @@
+![Documentation](Documentation.png)
+
 # Project Documentation Overview
 
-This project contains several key documents that provide a comprehensive foundation for the VibeCoding platform. Each document serves a specific purpose and is intended for use by different stakeholders throughout the project lifecycle.
+This project contains several key documents that provide a comprehensive foundation for your vibe coding platform. Each document serves a specific purpose and is intended for use by different stakeholders throughout the project lifecycle.
 
 ## 1. Business Requirements Document (BRD)
 
-- **Purpose:** Defines the high-level business needs, objectives, and expectations for the VibeCoding project.
+- **Purpose:** Defines the high-level business needs, objectives, and expectations for your vibe coding project.
 - **Use:** Serves as the foundation for all subsequent project documentation and development activities. It is used by business stakeholders, product managers, and project sponsors to ensure alignment on goals, market opportunities, and success criteria.
 
 ## 2. Product Requirements Document (PRD)
@@ -19,7 +21,7 @@ This project contains several key documents that provide a comprehensive foundat
 
 ## 4. Tech Stack Document
 
-- **Purpose:** Outlines the technologies, frameworks, tools, and infrastructure components used to build the VibeCoding platform.
+- **Purpose:** Outlines the technologies, frameworks, tools, and infrastructure components used to build your vibe coding platform.
 - **Use:** Provides technical guidance for the engineering team and transparency for stakeholders. It helps ensure consistency, scalability, and maintainability of the platform, and is updated as technology choices evolve.
 
 ---
