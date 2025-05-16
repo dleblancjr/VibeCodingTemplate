@@ -1,0 +1,29 @@
+# General .gitignore for VibeCoding project
+
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore Word temporary files
+~$*.docx
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore node_modules if using Node.js
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore backup files
+*.bak
+*.tmp
