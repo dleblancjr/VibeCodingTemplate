@@ -60,7 +60,7 @@ This project contains several key documents that provide a comprehensive foundat
 - **Purpose:** Maps each business requirement (from the BRD) to corresponding product requirements (from the PRD).
 - **Use:** Ensures that all business needs are addressed in the product and that every product feature is justified by a business requirement. It is used for impact analysis, change management, and validation throughout the project lifecycle.
 
-## 4. [Tech Stack](./Documentation/Tech_Stack_Document.md) Document
+## 4. [Tech Stack](./Documents/Tech_Stack_Document.md) Document
 
 - **Purpose:** Outlines the technologies, frameworks, tools, and infrastructure components used to build your vibe coding platform.
 - **Use:** Provides technical guidance for the engineering team and transparency for stakeholders. It helps ensure consistency, scalability, and maintainability of the platform, and is updated as technology choices evolve.
